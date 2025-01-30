@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     "Get in touch with ABIC Realty for inquiries, support, or to learn more about our services. We are here to assist you.",
 
   openGraph: {
-    title: "Contact Us | ABIC Realty by Joe Rendon",
+    title: "Contact Us | ABIC Realty by Kaila Dapiaoen",
     description:
       "Get in touch with ABIC Realty for inquiries, support, or to learn more about our services. We are here to assist you.",
     url: "https://www.abic-website.vercel.app/contact",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-contact-banner.png", // Replace with actual contact page image
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "Contact Us | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "Contact Us | ABIC Realty by Kaila Dapiaoen",
     description:
       "Have questions? Contact ABIC Realty for support, inquiries, or more information about our real estate services.",
     images: [

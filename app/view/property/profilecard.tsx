@@ -5,13 +5,13 @@ import { FaFacebook, FaTelegram, FaViber, FaWhatsapp } from "react-icons/fa6";
 const AgentData = [
   {
     id: 1,
-    name: "Joelyn O. Rendon",
+    name: "Kaila Rose L. Dapiaoen",
     position: "Property Specialist",
-    email: "abicrealty.joelyn@gmail.com",
-    phone: "09470445574",
+    email: "abicrealty.kaila@gmail.com",
+    phone: "09957912023",
     images:
-      "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-joe.jpg",
-    facebook: "https://www.facebook.com/share/1A3PbWHsxM/",
+      "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-kaila.jpg",
+    facebook: "https://www.facebook.com/share/18EFwutVRE/",
   },
 ];
 

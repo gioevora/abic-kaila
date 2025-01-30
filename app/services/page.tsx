@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     "Explore ABIC Realty's professional real estate services, including property buying, selling, leasing, and investment advisory. Let us help you find the perfect property.",
 
   openGraph: {
-    title: "Our Services | ABIC Realty by Joe Rendon",
+    title: "Our Services | ABIC Realty by Kaila Dapiaoen",
     description:
       "ABIC Realty offers expert real estate services, including buying, selling, leasing, and investment advisory. Find your ideal property with us.",
     url: "https://www.abic-website.vercel.app/services",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-services-banner.png", // Replace with a relevant image
@@ -29,9 +29,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "Our Services | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "Our Services | ABIC Realty by Kaila Dapiaoen",
     description:
       "Discover ABIC Realty’s expert real estate services. We assist with property buying, selling, leasing, and investment advisory.",
     images: [

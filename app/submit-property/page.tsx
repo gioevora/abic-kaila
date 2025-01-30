@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     "List your property on ABIC Realty to connect with buyers and renters. Get more visibility and reach potential clients with ease.",
 
   openGraph: {
-    title: "Submit Your Property | ABIC Realty by Joe Rendon",
+    title: "Submit Your Property | ABIC Realty by Kaila Dapiaoen",
     description:
       "Easily list your property for sale or rent on ABIC Realty. Gain exposure and connect with potential buyers and tenants.",
     url: "https://www.abic-website.vercel.app/submit-property",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-submit-property-banner.png", // Replace with an actual image
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "Submit Your Property | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "Submit Your Property | ABIC Realty by Kaila Dapiaoen",
     description:
       "List your property for sale or rent on ABIC Realty. Reach a wide audience of potential buyers and renters.",
     images: [

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     "Explore exciting career opportunities at ABIC Realty. Join our team and contribute to delivering exceptional real estate solutions.",
 
   openGraph: {
-    title: "Career | ABIC Realty by Joe Rendon",
+    title: "Career | ABIC Realty by Kaila Dapiaoen",
     description:
       "Explore exciting career opportunities at ABIC Realty. Join our team and contribute to delivering exceptional real estate solutions.",
     url: "https://www.abic-website.vercel.app/career",
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "Career | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "Career | ABIC Realty by Kaila Dapiaoen",
     description:
       "Discover career opportunities at ABIC Realty and become part of our mission to deliver top-tier real estate solutions.",
     images: [

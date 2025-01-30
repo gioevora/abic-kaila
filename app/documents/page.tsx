@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     "Access important documents related to DMCI properties, including agreements, floor plans, and other essential information.",
 
   openGraph: {
-    title: "DMCI Documents | ABIC Realty by Joe Rendon",
+    title: "DMCI Documents | ABIC Realty by Kaila Dapiaoen",
     description:
       "Access important documents related to DMCI properties, including agreements, floor plans, and other essential information.",
     url: "https://www.abic-website.vercel.app/documents",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-documents-banner.png", // Replace with an actual relevant image
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "DMCI Documents | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "DMCI Documents | ABIC Realty by Kaila Dapiaoen",
     description:
       "Browse and download important documents related to DMCI properties, including agreements, floor plans, and legal files.",
     images: [

@@ -14,11 +14,11 @@ export const metadata: Metadata = {
     "This page provides detailed information about ABIC Realty, showcasing the services and values we offer. Learn more about our commitment to providing exceptional real estate solutions.",
 
   openGraph: {
-    title: "About | ABIC Realty by Joe Rendon",
+    title: "About | ABIC Realty by Kaila Dapiaoen",
     description:
       "This page provides detailed information about ABIC Realty, showcasing the services and values we offer. Learn more about our commitment to providing exceptional real estate solutions.",
     url: "https://www.abic-website.vercel.app/about",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-banner.png",
@@ -33,9 +33,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "About | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "About | ABIC Realty by Kaila Dapiaoen",
     description:
       "Learn more about ABIC Realty, our services, and values in providing top-tier real estate solutions.",
     images: [

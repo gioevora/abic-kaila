@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     "Use our loan calculator to estimate monthly payments for your real estate purchase. Plan your finances with accurate and reliable calculations.",
 
   openGraph: {
-    title: "Loan Calculator | ABIC Realty by Joe Rendon",
+    title: "Loan Calculator | ABIC Realty by Kaila Dapiaoen",
     description:
       "Calculate your real estate loan payments easily with our loan calculator. Get accurate monthly estimates to make informed financial decisions.",
     url: "https://www.abic-website.vercel.app/loancalculator",
-    siteName: "ABIC Realty by Joe Rendon",
+    siteName: "ABIC Realty by Kaila Dapiaoen",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-loan-calculator-banner.png", // Replace with an actual relevant image
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    site: "@AbicRealty by Joe Rendon",
-    creator: "@AbicRealty by Joe Rendon",
-    title: "Loan Calculator | ABIC Realty by Joe Rendon",
+    site: "@AbicRealty by Kaila Dapiaoen",
+    creator: "@AbicRealty by Kaila Dapiaoen",
+    title: "Loan Calculator | ABIC Realty by Kaila Dapiaoen",
     description:
       "Easily estimate your monthly mortgage or real estate loan payments using our accurate loan calculator. Plan your budget with confidence.",
     images: [
